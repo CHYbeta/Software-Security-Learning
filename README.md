@@ -141,7 +141,7 @@
 
 ### FSP溢出
 
-* [Head First FILE Stream Pointer Overflow](http://blog.neargle.com/SecNewsBak/drops/Head First FILE Stream Pointer Overflow.html)
+* [Head First FILE Stream Pointer Overflow](http://wooyun.jozxing.cc/static/drops/binary-12740.html)
 * [abusing the FILE structure](https://outflux.net/blog/archives/2011/12/22/abusing-the-file-structure/)
 * [File Stream Pointer Overflows Paper.](https://outflux.net/blog/archives/2011/12/22/abusing-the-file-structure/)
 * [溢出利用FILE结构体](http://bobao.360.cn/learning/detail/3219.html)

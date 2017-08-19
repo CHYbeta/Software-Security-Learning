@@ -19,8 +19,7 @@
 
 ## Course
 
-* [Modern Binary
-  Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+* [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [Linux \(x86\) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
 * [liveoverflow: Binary Hacking Course](http://liveoverflow.com/binary_hacking/index.html)
 * [Lots of  Tutorials](https://www.fuzzysecurity.com/tutorials.html)

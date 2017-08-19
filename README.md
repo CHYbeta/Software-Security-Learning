@@ -12,9 +12,9 @@
 
 ## Tools
 
-* [Angr：The next-generation binary analysis platform  ](https://github.com/angr/angr)
-  * [Angr：一个具有动态符号执行和静态分析的二进制分析工具 ](http://www.freebuf.com/sectool/143056.html)
-  * [angr初探](http://bestwing.me/2017/03/08/angr-study/)
+* [Angr：The next-generation binary analysis platform ](https://github.com/angr/angr)
+* [Angr：一个具有动态符号执行和静态分析的二进制分析工具 ](http://www.freebuf.com/sectool/143056.html)
+* [angr初探](http://bestwing.me/2017/03/08/angr-study/)
 * [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 * [pwntools - CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
 
@@ -23,7 +23,7 @@
 * [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [Linux \(x86\) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
 * [liveoverflow: Binary Hacking Course](http://liveoverflow.com/binary_hacking/index.html)
-* [Lots of  Tutorials](https://www.fuzzysecurity.com/tutorials.html)
+* [Lots of Tutorials](https://www.fuzzysecurity.com/tutorials.html)
 
 ### Hack The Virtual Memory
 
@@ -67,7 +67,7 @@
 * [ROP技术入门教程](http://bobao.360.cn/learning/detail/3569.html)
 * [二进制漏洞利用中的ROP技术研究与实例分析](https://xianzhi.aliyun.com/forum/read/840.html?fpage=2)
 * [现代栈溢出利用技术基础：ROP](http://bobao.360.cn/learning/detail/3694.html)
-* [通过ELF动态装载构造ROP链](http://wooyun.jozxing.cc/static/drops/binary-14360.html) 
+* [通过ELF动态装载构造ROP链](http://wooyun.jozxing.cc/static/drops/binary-14360.html)
 * [Swing: 基础栈溢出复习 二 之 ROP ](http://bestwing.me/2017/03/19/stack-overflow-two-ROP/)
 
 ### BROP
@@ -113,9 +113,10 @@
 * [Libc堆管理机制及漏洞利用技术 \(一） ](http://www.freebuf.com/articles/system/91527.html)
 * [Notes About Heap Overflow Under Linux](https://blog.iret.xyz/article.aspx/linux_heapoverflow_enterance)
 * [如何理解堆和堆溢出漏洞的利用?](http://www.freebuf.com/vuls/98404.html)
-
++ [Have fun with glibc内存管理](http://o0xmuhe.me/2016/11/21/Have-fun-with-glibc%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/)
++ [内存映射mmap](http://www.tuicool.com/articles/A7n2ueq)
 ### 堆利用技术
-
++ [溢出科普：heap overflow&溢出保护和绕过](http://wooyun.jozxing.cc/static/drops/binary-14596.html)
 * [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
 * [从一字节溢出到任意代码执行-Linux下堆漏洞利用](http://bobao.360.cn/learning/detail/3113.html)
 * [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/?spm=a313e.7916648.0.0.x4nzYZ)
@@ -130,15 +131,16 @@
 * [堆之House of Spirit](http://bobao.360.cn/learning/detail/3417.html)
 
 ## 格式化字符串漏洞
-
++ [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)
 * [二进制漏洞之——邪恶的printf](http://cb.drops.wiki/drops/binary-6259.html)
 * [漏洞挖掘基础之格式化字符串](http://cb.drops.wiki/drops/papers-9426.html)
 * [格式化字符串漏洞利用小结（一）](http://bobao.360.cn/learning/detail/3654.html)
 * [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
 * [Linux下的格式化字符串漏洞利用姿势](http://www.cnblogs.com/Ox9A82/p/5429099.html)
++ [Linux系统下格式化字符串利用研究 ](http://0x48.pw/2017/03/13/0x2c/?utm_source=tuicool&utm_medium=referral)
 * [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)
 + [Advances in format string exploitation](http://phrack.org/issues/59/7.html)
-
++ [Exploiting Sudo format string vunerability](http://www.vnsecurity.net/research/2012/02/16/exploiting-sudo-format-string-vunerability.html)
 ## 其余漏洞
 
 ### FSP溢出
@@ -206,6 +208,8 @@
 ### 技巧
 
 * [借助DynELF实现无libc的漏洞利用小结](http://bobao.360.cn/learning/detail/3298.html?utm_source=tuicool&utm_medium=referral)
++ [what DynELF does basically ](http://o0xmuhe.me/2016/12/24/what-DynELF-does-basically/)
++ [Finding Function's Load Address ](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
 
 ### 总结
 

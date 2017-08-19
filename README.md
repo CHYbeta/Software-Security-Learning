@@ -3,7 +3,7 @@
 在学习Software安全的过程中整合的一些资料。
 该repo会不断更新，最近更新日期为：2017/8/19。
 
-同步更新于： [chybeta: Software-Security-Learning ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
+同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
 
 ---

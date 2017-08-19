@@ -73,6 +73,7 @@
 ### BROP
 
 * [Blind Return Oriented Programming](https://raw.githubusercontent.com/phith0n/Mind-Map/master/渗透测试.png)
++ [muhe: Have fun with Blind ROP](http://o0xmuhe.me/2017/01/22/Have-fun-with-Blind-ROP/)
 * [Swing: 基础栈溢出复习 四 之 BROP ](http://bestwing.me/2017/03/24/stack-overflow-four-BROP/)
 
 ### SROP

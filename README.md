@@ -218,7 +218,7 @@
 
 * [一道有趣的CTF PWN题](http://bobao.360.cn/learning/detail/3189.html)
 * [Exploit-Exercises Nebula全攻略](https://github.com/1u4nx/Exploit-Exercises-Nebula)
-* [三个白帽之从pwn me调试到Linux攻防学习](http://blog.neargle.com/SecNewsBak/drops/三个白帽之从pwn me调试到Linux攻防学习.html)
+* [三个白帽之从pwn me调试到Linux攻防学习](http://wooyun.jozxing.cc/static/drops/binary-16700.html)
 
 # 安卓安全
 

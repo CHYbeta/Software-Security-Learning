@@ -1,9 +1,9 @@
-# [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
+# [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
-在学习Web安全的过程中整合的一些资料。
+在学习Software安全的过程中整合的一些资料。
 该repo会不断更新，最近更新日期为：2017/8/19。
 
-同步更新于： [chybeta: Web-Security-Learning ](https://chybeta.github.io/2017/08/19/Web-Security-Learning/) 
+同步更新于： [chybeta: Software-Security-Learning ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
 
 ---

@@ -137,6 +137,7 @@
 * [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
 * [Linux下的格式化字符串漏洞利用姿势](http://www.cnblogs.com/Ox9A82/p/5429099.html)
 * [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)
++ [Advances in format string exploitation](http://phrack.org/issues/59/7.html)
 
 ## 其余漏洞
 

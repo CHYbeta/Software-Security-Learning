@@ -67,7 +67,7 @@
 * [ROP技术入门教程](http://bobao.360.cn/learning/detail/3569.html)
 * [二进制漏洞利用中的ROP技术研究与实例分析](https://xianzhi.aliyun.com/forum/read/840.html?fpage=2)
 * [现代栈溢出利用技术基础：ROP](http://bobao.360.cn/learning/detail/3694.html)
-* [通过ELF动态装载构造ROP链](http://blog.neargle.com/SecNewsBak/drops/通过ELF动态装载构造ROP链 （ Return-to-dl-resolve）.html) 
+* [通过ELF动态装载构造ROP链](http://wooyun.jozxing.cc/static/drops/binary-14360.html) 
 * [Swing: 基础栈溢出复习 二 之 ROP ](http://bestwing.me/2017/03/19/stack-overflow-two-ROP/)
 
 ### BROP

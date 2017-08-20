@@ -148,6 +148,7 @@
 * [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)
 + [Advances in format string exploitation](http://phrack.org/issues/59/7.html)
 + [Exploiting Sudo format string vunerability](http://www.vnsecurity.net/research/2012/02/16/exploiting-sudo-format-string-vunerability.html)
+
 ## 其余漏洞
 
 ### FSP溢出

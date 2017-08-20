@@ -9,12 +9,12 @@
 ---
 
 # Bin Securiy
-
 ## Tools
 
 * [Angr：The next-generation binary analysis platform ](https://github.com/angr/angr)
 * [Angr：一个具有动态符号执行和静态分析的二进制分析工具 ](http://www.freebuf.com/sectool/143056.html)
 * [angr初探](http://bestwing.me/2017/03/08/angr-study/)
++ [Vuzzer自动漏洞挖掘工具简单分析附使用介绍](http://www.freebuf.com/sectool/143123.html)
 * [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 * [pwntools - CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
 
@@ -115,6 +115,8 @@
 * [如何理解堆和堆溢出漏洞的利用?](http://www.freebuf.com/vuls/98404.html)
 + [Have fun with glibc内存管理](http://o0xmuhe.me/2016/11/21/Have-fun-with-glibc%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/)
 + [内存映射mmap](http://www.tuicool.com/articles/A7n2ueq)
++ [glibc malloc学习笔记之fastbin](http://0x48.pw/2017/07/25/0x35/)
+
 ### 堆利用技术
 + [溢出科普：heap overflow&溢出保护和绕过](http://wooyun.jozxing.cc/static/drops/binary-14596.html)
 * [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
@@ -196,6 +198,9 @@
 * [10种常见的进程注入技术的总结](http://bobao.360.cn/learning/detail/4131.html)
 * [系统安全攻防战：DLL注入技术详解 ](http://www.freebuf.com/articles/system/143640.html)
 
+## 漏洞挖掘
++ [看我如何对Apache进行模糊测试并挖到了一个价值1500刀的漏洞](http://bobao.360.cn/learning/detail/4213.html)
+
 ## CTF中的pwn
 
 * [pwn & exploit](https://github.com/jmpews/pwn2exploit)
@@ -221,14 +226,19 @@
 * [linux常见漏洞利用技术实践](http://drops.xmd5.com/static/drops/binary-6521.html)
 
 ### WP
-
++ [堆溢出学习之0CTF 2017 Babyheap ](http://0x48.pw/2017/08/01/0x36/)
 * [一道有趣的CTF PWN题](http://bobao.360.cn/learning/detail/3189.html)
 * [Exploit-Exercises Nebula全攻略](https://github.com/1u4nx/Exploit-Exercises-Nebula)
 * [三个白帽之从pwn me调试到Linux攻防学习](http://wooyun.jozxing.cc/static/drops/binary-16700.html)
 
 # 安卓安全
-
++ [走到哪黑到哪——Android渗透测试三板斧](http://bobao.360.cn/learning/detail/4254.html)
 * [Android安全项目入门篇](https://mp.weixin.qq.com/s?__biz=MzI4NjEyMDk0MA==&mid=2649846643&idx=1&sn=0286e8f1b3e6da0acbd129cb248eac2a)
-
++ [Android App漏洞学习（一）](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484642&idx=1&sn=d34ec8b6fc9b5a63b627316e13821b13&chksm=ec1e34cadb69bddc80598c93a0aef429d0b1d668b4fc6e5e6b31a7a3ebfa713aafda1f1b8f7a&scene=21#wechat_redirect)
++ [Android App漏洞学习（二） ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484706&idx=1&sn=eb49d5f71f89fd4d2e3bec23c44c0ae6&chksm=ec1e350adb69bc1c9f775bfaf997459e1cfa3beb065f553ed90fbd88220d7739487e9f7208bd#rd)
++ [Brida:将frida与burp结合进行移动app渗透测试](http://www.4hou.com/penetration/6916.html)
++ [通过 WebView 攻击 Android 应用](https://zhuanlan.zhihu.com/p/28107901)
++ [Android组件安全](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484387&idx=1&sn=7264428205276452d40c1ef7b1ed0dcc&chksm=ec1e33cbdb69badd00794f81caa43e5d62e0dc9bb7b9baa9d4c3c9eb64a3a0a18613356bf584#rd)
++ [WIKI: Android](http://wiki.ioin.in/sort/android)
 
 

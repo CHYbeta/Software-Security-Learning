@@ -1,14 +1,19 @@
 # [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
 在学习Software安全的过程中整合的一些资料。
-该repo会不断更新，最近更新日期为：2017/8/20。
+该repo会不断更新，最近更新日期为：2017/8/21。
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
+8月21日更新小记：
++ 增加技能表
++ 增加ios/
 
 ---
 
 # Bin Securiy
++ [软件安全工程师技能表](https://github.com/feicong/sec_skills)
+
 ## Tools
 
 * [Angr：The next-generation binary analysis platform ](https://github.com/angr/angr)
@@ -231,7 +236,8 @@
 * [Exploit-Exercises Nebula全攻略](https://github.com/1u4nx/Exploit-Exercises-Nebula)
 * [三个白帽之从pwn me调试到Linux攻防学习](http://wooyun.jozxing.cc/static/drops/binary-16700.html)
 
-# 安卓安全
+# Android Security
++ [DIVA Android](https://github.com/payatu/diva-android/)
 + [走到哪黑到哪——Android渗透测试三板斧](http://bobao.360.cn/learning/detail/4254.html)
 * [Android安全项目入门篇](https://mp.weixin.qq.com/s?__biz=MzI4NjEyMDk0MA==&mid=2649846643&idx=1&sn=0286e8f1b3e6da0acbd129cb248eac2a)
 + [Android App漏洞学习（一）](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484642&idx=1&sn=d34ec8b6fc9b5a63b627316e13821b13&chksm=ec1e34cadb69bddc80598c93a0aef429d0b1d668b4fc6e5e6b31a7a3ebfa713aafda1f1b8f7a&scene=21#wechat_redirect)
@@ -241,4 +247,19 @@
 + [Android组件安全](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484387&idx=1&sn=7264428205276452d40c1ef7b1ed0dcc&chksm=ec1e33cbdb69badd00794f81caa43e5d62e0dc9bb7b9baa9d4c3c9eb64a3a0a18613356bf584#rd)
 + [WIKI: Android](http://wiki.ioin.in/sort/android)
 
+# IOS/OSX Securiy
++ [OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
 
+## IOS
++ [Damn Vulnerable iOS Application (DVIA)](http://damnvulnerableiosapp.com/#trainings)
++ [Papers, Slides and Thesis Archive : iOS](https://papers.put.as/ios/ios/)
++ [ios-wiki: iOS Security](http://security.ios-wiki.com/)
++ [apple官方文档：iOS Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
++ [iOS安全系列汇总](http://esoftmobile.com/2014/02/14/ios-security/)
++ [浅谈iOS应用安全自动化审计](https://security.tencent.com/index.php/blog/msg/105)
++ [iOS安全审计入门](http://www.freebuf.com/articles/terminal/123098.html)
++ [iOS内核漏洞挖掘–fuzz&代码审计](http://blog.pangu.io/xkungfoo2015/)
+
+## OSX
++ [Papers, Slides and Thesis Archive : Mac OS X](https://papers.put.as/macosx/macosx/)
++ [OS X : Crackmes](https://reverse.put.as/crackmes/)

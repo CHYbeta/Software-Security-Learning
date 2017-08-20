@@ -8,7 +8,7 @@
 8月21日更新小记：
 + 增加技能表
 + 增加IOS/OSX Securiy板块
-
++ 细分整理Android Security板块
 ---
 
 # Bin Securiy

@@ -238,21 +238,29 @@
 * [三个白帽之从pwn me调试到Linux攻防学习](http://wooyun.jozxing.cc/static/drops/binary-16700.html)
 
 # Android Security
+## Exercise
 + [DIVA Android](https://github.com/payatu/diva-android/)
-+ [走到哪黑到哪——Android渗透测试三板斧](http://bobao.360.cn/learning/detail/4254.html)
 * [Android安全项目入门篇](https://mp.weixin.qq.com/s?__biz=MzI4NjEyMDk0MA==&mid=2649846643&idx=1&sn=0286e8f1b3e6da0acbd129cb248eac2a)
+
+## Skill
 + [Android App漏洞学习（一）](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484642&idx=1&sn=d34ec8b6fc9b5a63b627316e13821b13&chksm=ec1e34cadb69bddc80598c93a0aef429d0b1d668b4fc6e5e6b31a7a3ebfa713aafda1f1b8f7a&scene=21#wechat_redirect)
 + [Android App漏洞学习（二） ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484706&idx=1&sn=eb49d5f71f89fd4d2e3bec23c44c0ae6&chksm=ec1e350adb69bc1c9f775bfaf997459e1cfa3beb065f553ed90fbd88220d7739487e9f7208bd#rd)
-+ [Brida:将frida与burp结合进行移动app渗透测试](http://www.4hou.com/penetration/6916.html)
-+ [通过 WebView 攻击 Android 应用](https://zhuanlan.zhihu.com/p/28107901)
-+ [Android组件安全](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484387&idx=1&sn=7264428205276452d40c1ef7b1ed0dcc&chksm=ec1e33cbdb69badd00794f81caa43e5d62e0dc9bb7b9baa9d4c3c9eb64a3a0a18613356bf584#rd)
 + [WIKI: Android](http://wiki.ioin.in/sort/android)
++ [Android组件安全](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484387&idx=1&sn=7264428205276452d40c1ef7b1ed0dcc&chksm=ec1e33cbdb69badd00794f81caa43e5d62e0dc9bb7b9baa9d4c3c9eb64a3a0a18613356bf584#rd)
++ [通过 WebView 攻击 Android 应用](https://zhuanlan.zhihu.com/p/28107901)
+
+## Tool
++ [走到哪黑到哪——Android渗透测试三板斧](http://bobao.360.cn/learning/detail/4254.html)
++ [Brida:将frida与burp结合进行移动app渗透测试](http://www.4hou.com/penetration/6916.html)
 
 # IOS/OSX Securiy
 + [OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
 
 ## IOS
+### Exercise
 + [Damn Vulnerable iOS Application (DVIA)](http://damnvulnerableiosapp.com/#trainings)
+
+### Skill
 + [Papers, Slides and Thesis Archive : iOS](https://papers.put.as/ios/ios/)
 + [ios-wiki: iOS Security](http://security.ios-wiki.com/)
 + [apple官方文档：iOS Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
@@ -262,5 +270,8 @@
 + [iOS内核漏洞挖掘–fuzz&代码审计](http://blog.pangu.io/xkungfoo2015/)
 
 ## OSX
-+ [Papers, Slides and Thesis Archive : Mac OS X](https://papers.put.as/macosx/macosx/)
+### Exercise
 + [OS X : Crackmes](https://reverse.put.as/crackmes/)
+
+### Skill
++ [Papers, Slides and Thesis Archive : Mac OS X](https://papers.put.as/macosx/macosx/)

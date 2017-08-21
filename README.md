@@ -6,7 +6,7 @@
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
 8月21日更新小记：
-+ 增加[技能表]((https://github.com/feicong/sec_skills)
++ 增加[技能表](https://github.com/feicong/sec_skills)
 + 增加[IOS/OSX Securiy板块](https://github.com/CHYbeta/Software-Security-Learning#iososx-securiy)
 + 细分整理[Android Security板块](https://github.com/CHYbeta/Software-Security-Learning#android-security)
 ---

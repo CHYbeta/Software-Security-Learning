@@ -6,7 +6,8 @@
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
 8月22日更新小记：
-+ IOS板块增加[技能表](https://github.com/feicong/sec_skills)
++ IOS板块增加: [IosHackStudy](https://github.com/pandazheng/IosHackStudy)
+
  
 ---
 

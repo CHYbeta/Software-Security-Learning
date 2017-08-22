@@ -7,6 +7,8 @@
 
 8月22日更新小记：
 + IOS板块增加: [IosHackStudy](https://github.com/pandazheng/IosHackStudy)
++ 堆相关知识增加： [malloc.c源码阅读之__libc_free](http://0x48.pw/2017/08/07/0x37/)
+
 
  
 ---
@@ -121,6 +123,7 @@
 + [Have fun with glibc内存管理](http://o0xmuhe.me/2016/11/21/Have-fun-with-glibc%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/)
 + [内存映射mmap](http://www.tuicool.com/articles/A7n2ueq)
 + [glibc malloc学习笔记之fastbin](http://0x48.pw/2017/07/25/0x35/)
++ [malloc.c源码阅读之__libc_free](http://0x48.pw/2017/08/07/0x37/)
 
 ### 堆利用技术
 + [溢出科普：heap overflow&溢出保护和绕过](http://wooyun.jozxing.cc/static/drops/binary-14596.html)

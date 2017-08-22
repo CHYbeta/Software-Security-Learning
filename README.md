@@ -5,10 +5,9 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-8月21日更新小记：
-+ 增加[技能表](https://github.com/feicong/sec_skills)
-+ 增加[IOS/OSX Securiy板块](https://github.com/CHYbeta/Software-Security-Learning#iososx-securiy)
-+ 细分整理[Android Security板块](https://github.com/CHYbeta/Software-Security-Learning#android-security)
+8月22日更新小记：
++ IOS板块增加[技能表](https://github.com/feicong/sec_skills)
+ 
 ---
 
 # Bin Securiy
@@ -261,6 +260,7 @@
 + [Damn Vulnerable iOS Application (DVIA)](http://damnvulnerableiosapp.com/#trainings)
 
 ### Skill
++ [IosHackStudy](https://github.com/pandazheng/IosHackStudy)
 + [Papers, Slides and Thesis Archive : iOS](https://papers.put.as/ios/ios/)
 + [ios-wiki: iOS Security](http://security.ios-wiki.com/)
 + [apple官方文档：iOS Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)

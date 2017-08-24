@@ -5,10 +5,9 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-8月22日更新小记：
-+ IOS板块增加: [IosHackStudy](https://github.com/pandazheng/IosHackStudy)
-+ 堆相关知识增加： [malloc.c源码阅读之__libc_free](http://0x48.pw/2017/08/07/0x37/)
-
+8月24日更新小记：
++ 修正某些错误链接
++ 新加浏览器漏洞模块：[浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766)
 
  
 ---
@@ -79,7 +78,7 @@
 
 ### BROP
 
-* [Blind Return Oriented Programming](https://raw.githubusercontent.com/phith0n/Mind-Map/master/渗透测试.png)
+* [Blind Return Oriented Programming](http://www.scs.stanford.edu/brop/)
 + [muhe: Have fun with Blind ROP](http://o0xmuhe.me/2017/01/22/Have-fun-with-Blind-ROP/)
 * [Swing: 基础栈溢出复习 四 之 BROP ](http://bestwing.me/2017/03/24/stack-overflow-four-BROP/)
 
@@ -148,7 +147,6 @@
 * [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
 * [Linux下的格式化字符串漏洞利用姿势](http://www.cnblogs.com/Ox9A82/p/5429099.html)
 + [Linux系统下格式化字符串利用研究 ](http://0x48.pw/2017/03/13/0x2c/?utm_source=tuicool&utm_medium=referral)
-* [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)
 + [Advances in format string exploitation](http://phrack.org/issues/59/7.html)
 + [Exploiting Sudo format string vunerability](http://www.vnsecurity.net/research/2012/02/16/exploiting-sudo-format-string-vunerability.html)
 
@@ -158,7 +156,7 @@
 
 * [Head First FILE Stream Pointer Overflow](http://wooyun.jozxing.cc/static/drops/binary-12740.html)
 * [abusing the FILE structure](https://outflux.net/blog/archives/2011/12/22/abusing-the-file-structure/)
-* [File Stream Pointer Overflows Paper.](https://outflux.net/blog/archives/2011/12/22/abusing-the-file-structure/)
+* [File Stream Pointer Overflows Paper.](http://repo.thehackademy.net/depot_ouah/fsp-overflows.txt)
 * [溢出利用FILE结构体](http://bobao.360.cn/learning/detail/3219.html)
 
 ### 整数溢出
@@ -179,7 +177,7 @@
 * [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
 * [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)
 * [Windows内核利用之旅：熟悉HEVD（附视频演示）](http://bobao.360.cn/learning/detail/4002.html)
-* [Windows 内核攻击：栈溢出](bobao.360.cn/learning/detail/3718.html)
+* [Windows 内核攻击：栈溢出](http://bobao.360.cn/learning/detail/3718.html)
 * [Linux 内核漏洞利用教程（一）：环境配置](http://bobao.360.cn/learning/detail/3700.html)
 * [Linux 内核漏洞利用教程（二）：两个Demo](http://bobao.360.cn/learning/detail/3702.html)
 * [Linux 内核漏洞利用教程（三）：实践 CSAW CTF 题目](http://bobao.360.cn/learning/detail/3706.html)
@@ -255,6 +253,9 @@
 ## Tool
 + [走到哪黑到哪——Android渗透测试三板斧](http://bobao.360.cn/learning/detail/4254.html)
 + [Brida:将frida与burp结合进行移动app渗透测试](http://www.4hou.com/penetration/6916.html)
+
+# 浏览器安全
++ [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766)
 
 # IOS/OSX Securiy
 + [OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)

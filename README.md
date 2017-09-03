@@ -5,11 +5,14 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-8月31日更新小记：
+9月03日更新小记：
 + 新收录文章：
-	+ Android Security：
-		+ [初探 Android SO 开发](http://www.ikey4u.com/blog/android-develop/android-so/)
-
+	+ Tools:
+		+ [pharos: Automated static analysis tools for binary programs](https://github.com/cmu-sei/pharos)
+	+ 基本ROP:
+		+ [ROP Emporium](https://ropemporium.com/)
+	+ 浏览器安全：
+		+ [浅谈多浏览器的自动化测试](http://www.freebuf.com/articles/others-articles/145586.html)
 <!-- more -->
 ---
 
@@ -17,13 +20,14 @@
 + [软件安全工程师技能表](https://github.com/feicong/sec_skills)
 
 ## Tools
-
++ [pharos: Automated static analysis tools for binary programs](https://github.com/cmu-sei/pharos)
 + [Angr：The next-generation binary analysis platform ](https://github.com/angr/angr)
 + [Angr：一个具有动态符号执行和静态分析的二进制分析工具 ](http://www.freebuf.com/sectool/143056.html)
 + [angr初探](http://bestwing.me/2017/03/08/angr-study/)
 + [Vuzzer自动漏洞挖掘工具简单分析附使用介绍](http://www.freebuf.com/sectool/143123.html)
 + [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 + [pwntools - CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
+
 
 ## Course
 
@@ -69,7 +73,7 @@
 + [一步一步学ROP之Android ARM 32位篇](http://cb.drops.wiki/drops/papers-11390.html)
 
 ### 基本ROP
-
++ [ROP Emporium](https://ropemporium.com/)
 + [ropasaurusrex: a primer on return-oriented programming2](https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming)
 + [ROP技术入门教程](http://bobao.360.cn/learning/detail/3569.html)
 + [二进制漏洞利用中的ROP技术研究与实例分析](https://xianzhi.aliyun.com/forum/read/840.html?fpage=2)
@@ -257,6 +261,7 @@
 + [Brida:将frida与burp结合进行移动app渗透测试](http://www.4hou.com/penetration/6916.html)
 
 # 浏览器安全
++ [浅谈多浏览器的自动化测试](http://www.freebuf.com/articles/others-articles/145586.html)
 + [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766)
 
 # IOS/OSX Securiy
@@ -282,3 +287,4 @@
 
 ### Skill
 + [Papers, Slides and Thesis Archive : Mac OS X](https://papers.put.as/macosx/macosx/)
++ [实现 macOS 内核监控的几种方法](https://paper.seebug.org/380/)

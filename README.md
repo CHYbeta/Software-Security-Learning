@@ -5,14 +5,15 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-9月03日更新小记：
+9月12日更新小记：
 + 新收录文章：
-	+ Tools:
-		+ [pharos: Automated static analysis tools for binary programs](https://github.com/cmu-sei/pharos)
-	+ 基本ROP:
-		+ [ROP Emporium](https://ropemporium.com/)
-	+ 浏览器安全：
-		+ [浅谈多浏览器的自动化测试](http://www.freebuf.com/articles/others-articles/145586.html)
+	+ 堆利用技术
+		+ [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
+		+ [how2heap总结-下](http://bobao.360.cn/learning/detail/4383.html)
+	+ 内核:
+		+ [Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup](Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup)
+		+ [Introduction to Windows Kernel Driver Exploitation (Pt. 2) - Stack Buffer Overflow to System Shell](https://glennmcgui.re/introduction-to-windows-kernel-driver-exploitation-pt-2/)
+
 <!-- more -->
 ---
 
@@ -130,6 +131,8 @@
 + [malloc.c源码阅读之__libc_free](http://0x48.pw/2017/08/07/0x37/)
 
 ### 堆利用技术
++ [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
++ [how2heap总结-下](http://bobao.360.cn/learning/detail/4383.html)
 + [溢出科普：heap overflow&溢出保护和绕过](http://wooyun.jozxing.cc/static/drops/binary-14596.html)
 + [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
 + [从一字节溢出到任意代码执行-Linux下堆漏洞利用](http://bobao.360.cn/learning/detail/3113.html)
@@ -177,7 +180,8 @@
 + [Liunx下关于绕过cancry保护总结](http://yunnigu.dropsec.xyz/2017/03/20/Liunx下关于绕过cancry保护总结/)
 
 ## 内核
-
++ [Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup](Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup)
++ [Introduction to Windows Kernel Driver Exploitation (Pt. 2) - Stack Buffer Overflow to System Shell](https://glennmcgui.re/introduction-to-windows-kernel-driver-exploitation-pt-2/)
 + [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 + [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
 + [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)

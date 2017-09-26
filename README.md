@@ -5,14 +5,17 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-9月12日更新小记：
+9月26日更新小记：
 + 新收录文章：
-	+ 堆利用技术
-		+ [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
-		+ [how2heap总结-下](http://bobao.360.cn/learning/detail/4383.html)
-	+ 内核:
-		+ [Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup](Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup)
-		+ [Introduction to Windows Kernel Driver Exploitation (Pt. 2) - Stack Buffer Overflow to System Shell](https://glennmcgui.re/introduction-to-windows-kernel-driver-exploitation-pt-2/)
+	+ 基本ROP:
+		+ [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
+	+ Android Security
+		+ [Android应用逆向工程](http://bobao.360.cn/learning/detail/4428.html)
+	+ 浏览器
+		+ [Browser Security Whitepaper](http://blog.skylined.nl/20170919001.html)
+		+ [browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
+	+ 蓝牙安全
+		+ [Guide to Bluetooth Security](https://csrc.nist.gov/csrc/media/publications/sp/800-121/rev-2/draft/documents/sp800_121_r2_draft.pdf)
 
 <!-- more -->
 ---
@@ -74,6 +77,7 @@
 + [一步一步学ROP之Android ARM 32位篇](http://cb.drops.wiki/drops/papers-11390.html)
 
 ### 基本ROP
++ [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
 + [ROP Emporium](https://ropemporium.com/)
 + [ropasaurusrex: a primer on return-oriented programming2](https://blog.skullsecurity.org/2013/ropasaurusrex-a-primer-on-return-oriented-programming)
 + [ROP技术入门教程](http://bobao.360.cn/learning/detail/3569.html)
@@ -253,6 +257,7 @@
 + [Android安全项目入门篇](https://mp.weixin.qq.com/s?__biz=MzI4NjEyMDk0MA==&mid=2649846643&idx=1&sn=0286e8f1b3e6da0acbd129cb248eac2a)
 
 ## Skill
++ [Android应用逆向工程](http://bobao.360.cn/learning/detail/4428.html)
 + [初探 Android SO 开发](http://www.ikey4u.com/blog/android-develop/android-so/)
 + [Android App漏洞学习（一）](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484642&idx=1&sn=d34ec8b6fc9b5a63b627316e13821b13&chksm=ec1e34cadb69bddc80598c93a0aef429d0b1d668b4fc6e5e6b31a7a3ebfa713aafda1f1b8f7a&scene=21#wechat_redirect)
 + [Android App漏洞学习（二） ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484706&idx=1&sn=eb49d5f71f89fd4d2e3bec23c44c0ae6&chksm=ec1e350adb69bc1c9f775bfaf997459e1cfa3beb065f553ed90fbd88220d7739487e9f7208bd#rd)
@@ -292,3 +297,6 @@
 ### Skill
 + [Papers, Slides and Thesis Archive : Mac OS X](https://papers.put.as/macosx/macosx/)
 + [实现 macOS 内核监控的几种方法](https://paper.seebug.org/380/)
+
+# 蓝牙安全
++ [Guide to Bluetooth Security](https://csrc.nist.gov/csrc/media/publications/sp/800-121/rev-2/draft/documents/sp800_121_r2_draft.pdf)

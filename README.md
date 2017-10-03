@@ -1,22 +1,18 @@
 # [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
 在学习Software安全的过程中整合的一些资料。
-该repo会不断更新，最近更新日期为：2017/9/26。
+该repo会不断更新，最近更新日期为：2017/10/04。
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-9月26日更新小记：
+10月04日更新小记：
 + 新收录文章：
-	+ 基本ROP:
-		+ [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
-	+ Android Security
-		+ [Android应用逆向工程](http://bobao.360.cn/learning/detail/4428.html)
-	+ 浏览器
-		+ [Browser Security Whitepaper](http://blog.skylined.nl/20170919001.html)
-		+ [browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
-	+ 蓝牙安全
-		+ [Guide to Bluetooth Security](https://csrc.nist.gov/csrc/media/publications/sp/800-121/rev-2/draft/documents/sp800_121_r2_draft.pdf)
-
+	+ 基础知识:
+		+ [教练！那根本不是IO！——从printf源码看libc的IO](http://bobao.360.cn/learning/detail/4490.html)
+	+ 内核
+		+ [利用WinDbg本地内核调试器攻陷 Windows 内核](http://bobao.360.cn/learning/detail/4477.html)
+	+ 虚拟机
+		+ [Phrack: VM escape - QEMU Case Study](https://www.exploit-db.com/papers/42883/)
 <!-- more -->
 ---
 
@@ -66,6 +62,7 @@
 
 + [Linux中的GOT和PLT到底是个啥？ ](http://www.freebuf.com/articles/system/135685.html)
 + [关于符号执行](https://github.com/enzet/symbolic-execution)
++ [教练！那根本不是IO！——从printf源码看libc的IO](http://bobao.360.cn/learning/detail/4490.html)
 
 ## ROP
 
@@ -189,6 +186,7 @@
 + [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 + [Starting with Windows Kernel Exploitation – part 1 – setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
 + [Starting with Windows Kernel Exploitation – part 2 – getting familiar with HackSys Extreme Vulnerable Driver](https://hshrzd.wordpress.com/2017/06/05/starting-with-windows-kernel-exploitation-part-2/)
++ [利用WinDbg本地内核调试器攻陷 Windows 内核](http://bobao.360.cn/learning/detail/4477.html)
 + [Windows内核利用之旅：熟悉HEVD（附视频演示）](http://bobao.360.cn/learning/detail/4002.html)
 + [Windows 内核攻击：栈溢出](http://bobao.360.cn/learning/detail/3718.html)
 + [Linux 内核漏洞利用教程（一）：环境配置](http://bobao.360.cn/learning/detail/3700.html)
@@ -198,7 +196,7 @@
 + [Linux内核ROP姿势详解（二）](http://www.freebuf.com/articles/system/135402.html)
 
 ## 虚拟机逃逸
-
++ [Phrack: VM escape - QEMU Case Study](https://www.exploit-db.com/papers/42883/)
 + [虚拟机逃逸——QEMU的案例分析（一）](http://bbs.pediy.com/thread-217997.htm)
 + [虚拟机逃逸——QEMU的案例分析（二）](http://bbs.pediy.com/thread-217999.htm)
 + [虚拟机逃逸——QEMU的案例分析（三） ](http://bbs.pediy.com/thread-218045.htm)

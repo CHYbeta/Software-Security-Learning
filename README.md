@@ -11,7 +11,10 @@
 		+ [IE漏洞攻防编年简史](http://blog.topsec.com.cn/ad_lab/ie%E6%BC%8F%E6%B4%9E%E6%94%BB%E9%98%B2%E7%BC%96%E5%B9%B4%E7%AE%80%E5%8F%B2/)
 		+ [IE浏览器漏洞综合利用技术：UAF利用技术的发展](http://bobao.360.cn/learning/detail/3666.html)
 		+ [IE浏览器漏洞综合利用技术：堆喷射技术](http://bobao.360.cn/learning/detail/3656.html)
+		+ [cure53-browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
+		+ [X41-Browser-Security-White-Paper.pdf](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
 <!-- more -->
+	
 ---
 
 # Bin Securiy
@@ -268,6 +271,11 @@
 # 浏览器安全
 + [浅谈多浏览器的自动化测试](http://www.freebuf.com/articles/others-articles/145586.html)
 + [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766)
++ [IE漏洞攻防编年简史](http://blog.topsec.com.cn/ad_lab/ie%E6%BC%8F%E6%B4%9E%E6%94%BB%E9%98%B2%E7%BC%96%E5%B9%B4%E7%AE%80%E5%8F%B2/)
++ [IE浏览器漏洞综合利用技术：UAF利用技术的发展](http://bobao.360.cn/learning/detail/3666.html)
++ [IE浏览器漏洞综合利用技术：堆喷射技术](http://bobao.360.cn/learning/detail/3656.html)
++ [cure53-browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
++ [X41-Browser-Security-White-Paper.pdf](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
 
 # IOS/OSX Securiy
 + [OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)

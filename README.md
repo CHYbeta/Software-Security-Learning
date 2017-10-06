@@ -98,7 +98,7 @@
 + [Swing: 基础栈溢出复习 三 之 SROP ](http://bestwing.me/2017/03/20/stack-overflow-three-SROP/)
 
 ### Return-to-dl-resolve
-
++ [如何在32位系统中使用ROP+Return-to-dl来绕过ASLR+DEP](http://www.freebuf.com/articles/system/149214.html)
 + [通过ELF动态装载构造ROP链 （ Return-to-dl-resolve）](http://www.evil0x.com/posts/19226.html)
 
 ## 栈漏洞

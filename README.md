@@ -5,14 +5,12 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-10月04日更新小记：
+10月06日更新小记：
 + 新收录文章：
-	+ 基础知识:
-		+ [教练！那根本不是IO！——从printf源码看libc的IO](http://bobao.360.cn/learning/detail/4490.html)
-	+ 内核
-		+ [利用WinDbg本地内核调试器攻陷 Windows 内核](http://bobao.360.cn/learning/detail/4477.html)
-	+ 虚拟机
-		+ [Phrack: VM escape - QEMU Case Study](https://www.exploit-db.com/papers/42883/)
+	+ 浏览器安全
+		+ [IE漏洞攻防编年简史](http://blog.topsec.com.cn/ad_lab/ie%E6%BC%8F%E6%B4%9E%E6%94%BB%E9%98%B2%E7%BC%96%E5%B9%B4%E7%AE%80%E5%8F%B2/)
+		+ [IE浏览器漏洞综合利用技术：UAF利用技术的发展](http://bobao.360.cn/learning/detail/3666.html)
+		+ [IE浏览器漏洞综合利用技术：堆喷射技术](http://bobao.360.cn/learning/detail/3656.html)
 <!-- more -->
 ---
 

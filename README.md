@@ -5,7 +5,7 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-10月06日更新小记：
+10月04日更新小记：
 + 新收录文章：
 	+ ROP	
 		+ [如何在32位系统中使用ROP+Return-to-dl来绕过ASLR+DEP](http://www.freebuf.com/articles/system/149214.html)

@@ -1,11 +1,11 @@
 # [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
 在学习Software安全的过程中整合的一些资料。
-该repo会不断更新，最近更新日期为：2017/10/04。
+该repo会不断更新，最近更新日期为：2017/10/15。
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-10月04日更新小记：
+10月15日更新小记：
 + 新收录文章：
 	+ ROP	
 		+ [如何在32位系统中使用ROP+Return-to-dl来绕过ASLR+DEP](http://www.freebuf.com/articles/system/149214.html)
@@ -64,7 +64,6 @@
 ## 基础知识
 
 + [Linux中的GOT和PLT到底是个啥？ ](http://www.freebuf.com/articles/system/135685.html)
-+ [关于符号执行](https://github.com/enzet/symbolic-execution)
 + [教练！那根本不是IO！——从printf源码看libc的IO](http://bobao.360.cn/learning/detail/4490.html)
 
 ## ROP
@@ -184,6 +183,7 @@
 + [Liunx下关于绕过cancry保护总结](http://yunnigu.dropsec.xyz/2017/03/20/Liunx下关于绕过cancry保护总结/)
 
 ## 内核
++ [Some-Kernel-Fuzzing-Paper](https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper)
 + [Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup](Introduction to Windows Kernel Driver Exploitation (Pt. 1) - Environment Setup)
 + [Introduction to Windows Kernel Driver Exploitation (Pt. 2) - Stack Buffer Overflow to System Shell](https://glennmcgui.re/introduction-to-windows-kernel-driver-exploitation-pt-2/)
 + [HackSysExtremeVulnerableDriver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
@@ -214,10 +214,17 @@
 + [ARM 汇编基础速成6：条件执行与分支](http://bobao.360.cn/learning/detail/4104.html)
 + [ARM 汇编基础速成7：栈与函数](http://bobao.360.cn/learning/detail/4108.html)
 
+## Lua
++ [Lua程序逆向之Luac文件格式分析](http://bobao.360.cn/learning/detail/4534.html)
+
 ## 进程注入
 
 + [10种常见的进程注入技术的总结](http://bobao.360.cn/learning/detail/4131.html)
 + [系统安全攻防战：DLL注入技术详解 ](http://www.freebuf.com/articles/system/143640.html)
+
+## 符号执行
++ [关于符号执行](https://github.com/enzet/symbolic-execution)
++ [Playing with Dynamic symbolic execution](http://www.miasm.re/blog/2017/10/05/playing_with_dynamic_symbolic_execution.html)
 
 ## 漏洞挖掘
 + [看我如何对Apache进行模糊测试并挖到了一个价值1500刀的漏洞](http://bobao.360.cn/learning/detail/4213.html)
@@ -277,7 +284,7 @@
 + [IE浏览器漏洞综合利用技术：UAF利用技术的发展](http://bobao.360.cn/learning/detail/3666.html)
 + [IE浏览器漏洞综合利用技术：堆喷射技术](http://bobao.360.cn/learning/detail/3656.html)
 + [cure53-browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
-+ [X41-Browser-Security-White-Paper.pdf](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
++ [X41-Browser-Security-White-Paper.pd
 
 # IOS/OSX Securiy
 + [OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
@@ -299,6 +306,8 @@
 ## OSX
 ### Exercise
 + [OS X : Crackmes](https://reverse.put.as/crackmes/)
++ [OS X内核大揭秘之基础篇](http://bobao.360.cn/learning/detail/4501.html)
++ [OS X内核大揭秘之利用篇](http://bobao.360.cn/learning/detail/4500.html)
 
 ### Skill
 + [Papers, Slides and Thesis Archive : Mac OS X](https://papers.put.as/macosx/macosx/)
@@ -306,3 +315,8 @@
 
 # 蓝牙安全
 + [Guide to Bluetooth Security](https://csrc.nist.gov/csrc/media/publications/sp/800-121/rev-2/draft/documents/sp800_121_r2_draft.pdf)
+
+# malware
++ [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-1-packer)
++ [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-2-loader)
++ [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core )

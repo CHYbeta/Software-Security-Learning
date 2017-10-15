@@ -7,14 +7,12 @@
 
 10月15日更新小记：
 + 新收录文章：
-	+ ROP	
-		+ [如何在32位系统中使用ROP+Return-to-dl来绕过ASLR+DEP](http://www.freebuf.com/articles/system/149214.html)
-	+ 浏览器安全
-		+ [IE漏洞攻防编年简史](http://blog.topsec.com.cn/ad_lab/ie%E6%BC%8F%E6%B4%9E%E6%94%BB%E9%98%B2%E7%BC%96%E5%B9%B4%E7%AE%80%E5%8F%B2/)
-		+ [IE浏览器漏洞综合利用技术：UAF利用技术的发展](http://bobao.360.cn/learning/detail/3666.html)
-		+ [IE浏览器漏洞综合利用技术：堆喷射技术](http://bobao.360.cn/learning/detail/3656.html)
-		+ [cure53-browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
-		+ [X41-Browser-Security-White-Paper.pdf](https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf)
+	+ Lua
+		+ [Lua程序逆向之Luac文件格式分析](http://bobao.360.cn/learning/detail/4534.html)
+	+ malware
+		+ [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-1-packer)
+		+ [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-2-loader)
+		+ [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core )
 <!-- more -->
 	
 ---

@@ -1,18 +1,16 @@
 # [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
 在学习Software安全的过程中整合的一些资料。
-该repo会不断更新，最近更新日期为：2017/10/15。
+该repo会不断更新，最近更新日期为：2017/10/24。
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-10月15日更新小记：
+10月24日更新小记：
 + 新收录文章：
-	+ Lua
-		+ [Lua程序逆向之Luac文件格式分析](http://bobao.360.cn/learning/detail/4534.html)
+	+ Tools
+		+ [符号执行：利用Angr进行简单CTF逆向分析 ](http://www.freebuf.com/articles/web/150296.html)
 	+ malware
-		+ [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-1-packer)
-		+ [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-2-loader)
-		+ [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core )
+		+ [《恶意样本分析手册》合辑](http://blog.nsfocus.net/malware-sample-analysis-summary/)
 <!-- more -->
 	
 ---
@@ -25,6 +23,7 @@
 + [Angr：The next-generation binary analysis platform ](https://github.com/angr/angr)
 + [Angr：一个具有动态符号执行和静态分析的二进制分析工具 ](http://www.freebuf.com/sectool/143056.html)
 + [angr初探](http://bestwing.me/2017/03/08/angr-study/)
++ [符号执行：利用Angr进行简单CTF逆向分析 ](http://www.freebuf.com/articles/web/150296.html)
 + [Vuzzer自动漏洞挖掘工具简单分析附使用介绍](http://www.freebuf.com/sectool/143123.html)
 + [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 + [pwntools - CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
@@ -318,3 +317,4 @@
 + [Reverse engineering malware: TrickBot (part 1 - packer)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-1-packer)
 + [Reverse engineering malware: TrickBot (part 2 - loader)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-2-loader)
 + [Reverse engineering malware: TrickBot (part 3 - core)](https://qmemcpy.io/post/reverse-engineering-malware-trickbot-part-3-core )
++ [《恶意样本分析手册》合辑](http://blog.nsfocus.net/malware-sample-analysis-summary/)

@@ -5,12 +5,13 @@
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-10月24日更新小记：
+11月2日更新小记：
 + 新收录文章：
-	+ Tools
-		+ [符号执行：利用Angr进行简单CTF逆向分析 ](http://www.freebuf.com/articles/web/150296.html)
-	+ malware
-		+ [《恶意样本分析手册》合辑](http://blog.nsfocus.net/malware-sample-analysis-summary/)
+	+ 堆漏洞
+		+ [Dance In Heap（一）：浅析堆的申请释放及相应保护机制 ](http://www.freebuf.com/articles/system/151372.html)
+		+ [Dance In Heap（二）：一些堆利用的方法（上） ](http://www.freebuf.com/articles/system/151407.html)
+		+ [Dance In Heap（三）：一些堆利用的方法（中） ](http://www.freebuf.com/articles/system/151428.html)
+		+ [Dance In Heap（四）：一些堆利用的方法（下） ](http://www.freebuf.com/articles/system/151435.html)
 <!-- more -->
 	
 ---
@@ -146,6 +147,11 @@
 + [Use After Free漏洞浅析](http://bobao.360.cn/learning/detail/3379.html?utm_source=tuicool&utm_medium=referral)
 + [Linux堆漏洞之Use after free实例](http://d0m021ng.github.io/2017/03/04/PWN/Linux堆漏洞之Use-after-free实例/)
 + [堆之House of Spirit](http://bobao.360.cn/learning/detail/3417.html)
++ [Dance In Heap（一）：浅析堆的申请释放及相应保护机制 ](http://www.freebuf.com/articles/system/151372.html)
++ [Dance In Heap（二）：一些堆利用的方法（上） ](http://www.freebuf.com/articles/system/151407.html)
++ [Dance In Heap（三）：一些堆利用的方法（中） ](http://www.freebuf.com/articles/system/151428.html)
++ [Dance In Heap（四）：一些堆利用的方法（下） ](http://www.freebuf.com/articles/system/151435.html)
+
 
 ## 格式化字符串漏洞
 + [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)

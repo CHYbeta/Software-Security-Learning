@@ -12,6 +12,7 @@
 	+ 堆相关知识
 		+ [Malloc碎碎念](http://www.cnblogs.com/wangaohui/p/5190889.html)
 		+ [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379)
+		+ [理解 glibc malloc](http://blog.csdn.net/maokelong95/article/details/51989081#allocated-chunk)
 	+ 堆利用技术
 		+ [堆溢出的unlink利用方法](https://www.tuicool.com/articles/E3Ezu2u)
 		+ [Linux堆溢出利用:unlink](https://www.tuicool.com/articles/nyEvU3Q)
@@ -138,6 +139,7 @@
 + [malloc.c源码阅读之__libc_free](http://0x48.pw/2017/08/07/0x37/)
 + [Malloc碎碎念](http://www.cnblogs.com/wangaohui/p/5190889.html)
 + [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379)
++ [理解 glibc malloc](http://blog.csdn.net/maokelong95/article/details/51989081#allocated-chunk)
 
 ### 堆利用技术
 + [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)

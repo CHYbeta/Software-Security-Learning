@@ -1,17 +1,22 @@
 # [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
 在学习Software安全的过程中整合的一些资料。
-该repo会不断更新，最近更新日期为：2017/10/24。
+该repo会不断更新，最近更新日期为：2017/12/3。
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-11月2日更新小记：
+12月3日更新小记：
 + 新收录文章：
-	+ 堆漏洞
-		+ [Dance In Heap（一）：浅析堆的申请释放及相应保护机制 ](http://www.freebuf.com/articles/system/151372.html)
-		+ [Dance In Heap（二）：一些堆利用的方法（上） ](http://www.freebuf.com/articles/system/151407.html)
-		+ [Dance In Heap（三）：一些堆利用的方法（中） ](http://www.freebuf.com/articles/system/151428.html)
-		+ [Dance In Heap（四）：一些堆利用的方法（下） ](http://www.freebuf.com/articles/system/151435.html)
+	+ 栈漏洞
+		+ [return2libc学习笔记](https://www.tuicool.com/articles/VVBz6va)
+	+ 堆相关知识
+		+ [Malloc碎碎念](http://www.cnblogs.com/wangaohui/p/5190889.html)
+		+ [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379)
+	+ 堆利用技术
+		+ [堆溢出的unlink利用方法](https://www.tuicool.com/articles/E3Ezu2u)
+		+ [Linux堆溢出利用:unlink](https://www.tuicool.com/articles/nyEvU3Q)
+		+ [浅析Linux堆溢出之fastbin](http://www.freebuf.com/news/88660.html?utm_source=tuicool&utm_medium=referral)
+		+ [Glibc Adventures：The Forgotten Chunks](https://info.contextis.com/acton/attachment/24535/f-02c8/1/-/-/-/-/Glibc%20Adventures%3A%20The%20forgotten%20chunks.pdf)
 <!-- more -->
 	
 ---
@@ -110,6 +115,7 @@
 + [64-bit Linux stack smashing tutorial: Part 2](https://blog.techorganic.com/2015/04/21/64-bit-linux-stack-smashing-tutorial-part-2/)
 + [64-bit Linux stack smashing tutorial: Part 3](https://blog.techorganic.com/2016/03/18/64-bit-linux-stack-smashing-tutorial-part-3/)
 + [Offset2lib: bypassing full ASLR on 64bit Linu](http://cybersecurity.upv.es/attacks/offset2lib/offset2lib.html)
++ [return2libc学习笔记](https://www.tuicool.com/articles/VVBz6va)
 
 ## 堆漏洞
 
@@ -130,6 +136,8 @@
 + [内存映射mmap](http://www.tuicool.com/articles/A7n2ueq)
 + [glibc malloc学习笔记之fastbin](http://0x48.pw/2017/07/25/0x35/)
 + [malloc.c源码阅读之__libc_free](http://0x48.pw/2017/08/07/0x37/)
++ [Malloc碎碎念](http://www.cnblogs.com/wangaohui/p/5190889.html)
++ [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379)
 
 ### 堆利用技术
 + [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
@@ -138,7 +146,9 @@
 + [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
 + [从一字节溢出到任意代码执行-Linux下堆漏洞利用](http://bobao.360.cn/learning/detail/3113.html)
 + [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/?spm=a313e.7916648.0.0.x4nzYZ)
++ [堆溢出的unlink利用方法](https://www.tuicool.com/articles/E3Ezu2u)
 + [Linux堆溢出漏洞利用之unlink](https://jaq.alibaba.com/community/art/show?spm=a313e.7916646.24000001.74.ZP8rXN&articleid=360)
++ [浅析Linux堆溢出之fastbin](http://www.freebuf.com/news/88660.html?utm_source=tuicool&utm_medium=referral)
 + [Linux堆溢出之Fastbin Attack实例详解](http://bobao.360.cn/learning/detail/3996.html)
 + [unsorted bin attack分析](http://bobao.360.cn/learning/detail/3296.html)
 + [Double Free浅析](http://www.vuln.cn/6172)
@@ -151,7 +161,7 @@
 + [Dance In Heap（二）：一些堆利用的方法（上） ](http://www.freebuf.com/articles/system/151407.html)
 + [Dance In Heap（三）：一些堆利用的方法（中） ](http://www.freebuf.com/articles/system/151428.html)
 + [Dance In Heap（四）：一些堆利用的方法（下） ](http://www.freebuf.com/articles/system/151435.html)
-
++ [Glibc Adventures：The Forgotten Chunks](https://info.contextis.com/acton/attachment/24535/f-02c8/1/-/-/-/-/Glibc%20Adventures%3A%20The%20forgotten%20chunks.pdf)
 
 ## 格式化字符串漏洞
 + [Exploiting Format String Vulnerabilities](https://crypto.stanford.edu/cs155old/cs155-spring08/papers/formatstring-1.2.pdf)

@@ -1,23 +1,16 @@
 # [Software-Security-Learning](https://chybeta.github.io/2017/08/19/Software-Security-Learning/)
 
 在学习Software安全的过程中整合的一些资料。
-该repo会不断更新，最近更新日期为：2017/12/3。
+该repo会不断更新，最近更新日期为：2018/02/17。
 
 同步更新于： [chybeta: Software-Security-Learning (带目录) ](https://chybeta.github.io/2017/08/19/Software-Security-Learning/) 
 
-12月3日更新小记：
+更新小记：
 + 新收录文章：
-	+ 栈漏洞
-		+ [return2libc学习笔记](https://www.tuicool.com/articles/VVBz6va)
-	+ 堆相关知识
-		+ [Malloc碎碎念](http://www.cnblogs.com/wangaohui/p/5190889.html)
-		+ [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379)
-		+ [理解 glibc malloc](http://blog.csdn.net/maokelong95/article/details/51989081#allocated-chunk)
-	+ 堆利用技术
-		+ [堆溢出的unlink利用方法](https://www.tuicool.com/articles/E3Ezu2u)
-		+ [Linux堆溢出利用:unlink](https://www.tuicool.com/articles/nyEvU3Q)
-		+ [浅析Linux堆溢出之fastbin](http://www.freebuf.com/news/88660.html?utm_source=tuicool&utm_medium=referral)
-		+ [Glibc Adventures：The Forgotten Chunks](https://info.contextis.com/acton/attachment/24535/f-02c8/1/-/-/-/-/Glibc%20Adventures%3A%20The%20forgotten%20chunks.pdf)
+	+ 浏览器安全
+		+ [浏览器漏洞](https://www.kanxue.com/book-9-208.htm)
+		+ [X41-Browser-Security-White-Paper](https://github.com/x41sec/browser-security-whitepaper-2017)
+		+ [纯干货：微软漏洞中国第一人黄正——如何用正确姿势挖掘浏览器漏洞（附完整 PPT）｜硬创公开课 ](https://www.leiphone.com/news/201612/YlysgkvgBbeBIkL9.html)
 <!-- more -->
 	
 ---

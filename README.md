@@ -286,13 +286,15 @@
 + [Brida:将frida与burp结合进行移动app渗透测试](http://www.4hou.com/penetration/6916.html)
 
 # 浏览器安全
++ [浏览器漏洞](https://www.kanxue.com/book-9-208.htm)
 + [浅谈多浏览器的自动化测试](http://www.freebuf.com/articles/others-articles/145586.html)
 + [浏览器漏洞挖掘思路](https://zhuanlan.zhihu.com/p/28719766)
 + [IE漏洞攻防编年简史](http://blog.topsec.com.cn/ad_lab/ie%E6%BC%8F%E6%B4%9E%E6%94%BB%E9%98%B2%E7%BC%96%E5%B9%B4%E7%AE%80%E5%8F%B2/)
 + [IE浏览器漏洞综合利用技术：UAF利用技术的发展](http://bobao.360.cn/learning/detail/3666.html)
 + [IE浏览器漏洞综合利用技术：堆喷射技术](http://bobao.360.cn/learning/detail/3656.html)
 + [cure53-browser-sec-whitepaper](https://github.com/cure53/browser-sec-whitepaper)
-+ [X41-Browser-Security-White-Paper.pd
++ [X41-Browser-Security-White-Paper](https://github.com/x41sec/browser-security-whitepaper-2017)
++ [纯干货：微软漏洞中国第一人黄正——如何用正确姿势挖掘浏览器漏洞（附完整 PPT）｜硬创公开课 ](https://www.leiphone.com/news/201612/YlysgkvgBbeBIkL9.html)
 
 # IOS/OSX Securiy
 + [OSX/iOS reverse engineering](https://github.com/michalmalik/osx-re-101)
